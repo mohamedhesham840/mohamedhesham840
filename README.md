@@ -23,7 +23,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently Computer science student
 - 🌱 I’m currently learning Algorithms
