@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently Computer science student
 - 🌱 I’m currently learning Algorithms
-- ⚡ Fun fact:
+- 🧙‍♂️ Favourite quote: “If you are not willing to be a fool, you can't become a master.”
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
