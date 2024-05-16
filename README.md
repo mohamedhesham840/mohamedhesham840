@@ -24,10 +24,7 @@
 
 
 
-
-- 🔭 I’m currently Computer science student
-- 🌱 I’m currently learning Algorithms
-- 🧙‍♂️ Favourite quote: “If you are not willing to be a fool, you can't become a master.”
+ “If you are not willing to be a fool, you can't become a master.”
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
