@@ -9,7 +9,11 @@
 </p>
 
 <p>
-  turning on-chain activity into reliable, usable data — and making interactions easier
+  bringing structure to on-chain data
+</p>
+
+<p>
+  making on-chain interactions simpler
 </p>
 
 <p>
