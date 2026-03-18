@@ -1,41 +1,24 @@
+<div align="center">
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ6bWQ1a3V4Z3l1d2h0cXo2d3VtZzZ3Y2R0d3E1c3Z2bGQ0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="220"/>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/xkmQfH1TB0dLW/giphy.gif" width="300"/>
-</div>
-<! ---<div id="header" align="center">
- <! --- <img src="https://media.giphy.com/media/xTiTnwRFINFGjqAfDO/giphy.gif" width="100"/>
-<! ---</div>
+<h1>Mohamed Hisham</h1>
 
-<h1>
-           Hello, I'm Mohamed Hisham! 👋
-</h1>
-<div id="badges">
-   <a href="https://www.linkedin.com/in/mohamed-hesham22/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p>
+  <b>backend engineer</b> · systems · data · on-chain
+</p>
+
+<p>
+  turning on-chain activity into reliable, usable data — and making interactions easier
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/mohamed-hesham22/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+  &nbsp;
+</p>
 
-### :man_technologist:: About Me :
-  
-</div>
- <! ---<img src="https://komarev.com/ghpvc/?username=mohamedhesham840&style=flat-square&color=blue" alt=""/>
-
-
-
-
- “If you are not willing to be a fool, you can't become a master.”
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  
 </div>
 
-### :fire: My Stats :
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhesham840&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
